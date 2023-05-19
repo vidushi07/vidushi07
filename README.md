@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh1404&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh1404" /> </p>
 
-- 🔭 I’m currently working on **Netflix clone**
-
-- 🌱 I’m currently learning **NextJS**
 
 
 - 💬 Ask me about **HTML,CSS,Javascript,React,NodeJS**
